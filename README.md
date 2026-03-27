@@ -1,4 +1,4 @@
-# Nivex-E – Electric Moped System
+# Nivex-E – Electric Motorcycle
 
 ![Nivex-E Moped](docs/images/moped.JPEG)
 
