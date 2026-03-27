@@ -1,6 +1,6 @@
 # Nivex-E – Electric Moped System
 
-![Nivex-E Moped](docs/images/moped_overview.jpg)
+![Nivex-E Moped](docs/images/moped.JPEG)
 
 Nivex-E is a student-built electric moped developed as part of a diploma project at HTBLuVA Salzburg.  
 The project focuses on converting a conventional combustion-powered motorcycle into a fully electric vehicle, combined with a modern and intelligent Human-Machine Interface (HMI).
