@@ -7,6 +7,12 @@ The project focuses on converting a conventional combustion-powered motorcycle i
 
 ---
 
+## Project Video
+
+[![Watch the Nivex-E Demo](https://img.youtube.com/vi/_TMJoE4khJ0/maxresdefault.jpg)](https://youtu.be/_TMJoE4khJ0)
+
+**Watch the demo to see Nivex-E in action.**
+
 ## Project Overview
 
 The main goal of Nivex-E is to create a reliable, efficient, and user-friendly electric mobility solution.  
