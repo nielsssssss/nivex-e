@@ -32,6 +32,7 @@ This allows the rider to monitor important parameters such as speed, battery sta
 
 **Watch the demo to see Nivex-E in action.**
 
+---
 
 
 ## System Architecture
